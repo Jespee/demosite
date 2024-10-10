@@ -1,0 +1,8 @@
+---
+title: "Course Material"
+format:
+  html:
+    code-fold: FALSE
+---
+## Index
+Similar to <https://quarto.org/docs/guide/>

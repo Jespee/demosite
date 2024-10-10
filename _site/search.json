@@ -1,0 +1,189 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Welcome to R Programming: An Introductory Course!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Vectors.html#vectors",
+    "href": "Vectors.html#vectors",
+    "title": "Vectors",
+    "section": "Vectors",
+    "text": "Vectors\nVectors are specified in R using the c() function.\n\nnumbers &lt;- c(1, 2, 3, 4)\nplot(numbers)"
+  },
+  {
+    "objectID": "R_Course_Splash.html#vectors",
+    "href": "R_Course_Splash.html#vectors",
+    "title": "",
+    "section": "Vectors",
+    "text": "Vectors\nVectors are specified in R using the c() function.\n\nnumbers &lt;- c(1, 2, 3, 4)\nnumbers\n\n[1] 1 2 3 4"
+  },
+  {
+    "objectID": "R_Course_Splash.html",
+    "href": "R_Course_Splash.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome"
+  },
+  {
+    "objectID": "R_Course_Welcome.html",
+    "href": "R_Course_Welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome"
+  },
+  {
+    "objectID": "Vectors.html",
+    "href": "Vectors.html",
+    "title": "Vectors",
+    "section": "",
+    "text": "Vectors\nVectors are specified in R using the c() function.\n\nnumbers &lt;- c(1, 2, 3, 4)\nnumbers\n\n[1] 1 2 3 4"
+  },
+  {
+    "objectID": "index.html#how-to-navigate-this-website",
+    "href": "index.html#how-to-navigate-this-website",
+    "title": "Course Introduction",
+    "section": "How to navigate this website",
+    "text": "How to navigate this website"
+  },
+  {
+    "objectID": "index.html#how-to-navigate-this-course",
+    "href": "index.html#how-to-navigate-this-course",
+    "title": "Introduction",
+    "section": "How to navigate this course",
+    "text": "How to navigate this course\nTips on navigating and reading code here!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#final-notes",
+    "href": "index.html#final-notes",
+    "title": "Course Introduction",
+    "section": "Final Notes",
+    "text": "Final Notes"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Introduction",
+    "section": "",
+    "text": "Welcome to R Programming: An Introductory Course!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-navigation",
+    "href": "index.html#quick-navigation",
+    "title": "Introduction",
+    "section": "Quick Navigation:",
+    "text": "Quick Navigation:\nSimilar to https://quarto.org/docs/guide/",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "Course_Material.html",
+    "href": "Course_Material.html",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/",
+    "crumbs": [
+      "Course Material"
+    ]
+  },
+  {
+    "objectID": "Course_Material.html#hello",
+    "href": "Course_Material.html#hello",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/"
+  },
+  {
+    "objectID": "Course_Material.html#course-index",
+    "href": "Course_Material.html#course-index",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/"
+  },
+  {
+    "objectID": "Course_Material.html#index",
+    "href": "Course_Material.html#index",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/",
+    "crumbs": [
+      "Course Material"
+    ]
+  },
+  {
+    "objectID": "Installing_R.html",
+    "href": "Installing_R.html",
+    "title": "R Example",
+    "section": "",
+    "text": "for (x in 1:5) { print(x ** 2) } ```x",
+    "crumbs": [
+      "Course Material",
+      "Getting Started",
+      "Installing Base R"
+    ]
+  },
+  {
+    "objectID": "Installing_R.html#index",
+    "href": "Installing_R.html#index",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/"
+  },
+  {
+    "objectID": "Installing_RStudio.html",
+    "href": "Installing_RStudio.html",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/"
+  },
+  {
+    "objectID": "Installing_RStudio.html#index",
+    "href": "Installing_RStudio.html#index",
+    "title": "Course Material",
+    "section": "",
+    "text": "Similar to https://quarto.org/docs/guide/"
+  },
+  {
+    "objectID": "index.html#course-introduction",
+    "href": "index.html#course-introduction",
+    "title": "> Course Introduction",
+    "section": "",
+    "text": "Welcome to R Programming: An Introductory Course!"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Introduction",
+    "section": "Hello",
+    "text": "Hello",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#hello-1",
+    "href": "index.html#hello-1",
+    "title": "Introduction",
+    "section": "Hello",
+    "text": "Hello"
+  }
+]

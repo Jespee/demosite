@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  page-navigation: true
+
+  sidebar:
+    - id: "Introduction"
+      logo: 'R_Logo.png'
+      style: "docked"
+      background: light
+      collapse-level: 1
+      contents:
+        - text: "---"
+        - text: "Introduction"
+          href: index.qmd
+        - section: "Course Material"
+          href: Course_Material.qmd
+          contents:
+            - section: "Getting Started"
+              contents:
+               - text: "Installing Base R"
+                 href: Installing_R.qmd
+               - text: "Installing RStudio"
+                 href: Installing_RStudio.qmd
+                 contents:
+                    - section: "Touring RStudio"
+            - section: "R Basics"
+              contents:
+               - text: "Vectors"
+                 href: Vectors.qmd
+        - text: "---"
+        - text: "<br>"
+        - text: '<span style="color: grey; font-size:10pt">AUTHOR:</span>'
+        - text: '<span style="color: black; font-size:10pt">Andrew C Jesper, PhD <br> acbjesper@gmail.com</span>'
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-copy: true
+

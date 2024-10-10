@@ -1,0 +1,41 @@
+---
+title: "Vectors"
+format:
+  html:
+    code-fold: FALSE
+---
+
+```{css, echo=FALSE}
+    .cell-output {
+        background-color: #f1f3f4; 
+        border-top: lightgrey 1px solid;
+        border-radius: 0px;
+        padding-top: 0;
+    }
+    
+    .cell-output pre { ff
+        border: 0px;
+        border-left: #07689f 4px solid;
+        border-radius: 0px;
+                    }
+                    
+    .sourceCode.cell-code {
+        background-color: #f1f3f4; 
+        border: 0px;
+        border-left: #07689f 4px solid;
+        margin: 0px;
+        margin-bottom: 0px;
+        border-radius: 0px;
+    }
+```
+
+## Vectors
+Vectors are specified in R using the `c()` function.
+
+```{r}
+
+numbers <- c(1, 2, 3, 4)
+plot(numbers)
+```
+
+

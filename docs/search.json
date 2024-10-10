@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Welcome to R Programming: An Introductory Course!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Introduction",
+    "section": "",
+    "text": "Welcome to R Programming: An Introductory Course!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-navigate-this-course",
+    "href": "index.html#how-to-navigate-this-course",
+    "title": "Introduction",
+    "section": "How to navigate this course",
+    "text": "How to navigate this course\nTips on navigating and reading code here!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-navigation",
+    "href": "index.html#quick-navigation",
+    "title": "Introduction",
+    "section": "Quick Navigation:",
+    "text": "Quick Navigation:\nSimilar to https://quarto.org/docs/guide/",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Introduction",
+    "section": "Hello",
+    "text": "Hello",
+    "crumbs": [
+      "Introduction"
+    ]
+  }
+]
